@@ -1,0 +1,15 @@
+git init
+git status
+git add . (add files in git)
+git commit -m "overall python operation"
+git config --global user.name "devilpk50"
+git config --global user.name
+git config --global user.email ""
+
+Authentication & authorization
+SSH process
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIuigsDsXfrT2aqwxIpGRTsdnBCGpdeioVl0TVg9h5uV devilpk50@gmail.com
+
+git remote -v
+git push -u origin master
+git remote remove origin
