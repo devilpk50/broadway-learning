@@ -1,5 +1,4 @@
 number = int(input("Enter any number: "))
-
 # prime number is always greater than 1
 if number > 1:
     for i in range(2, number):
